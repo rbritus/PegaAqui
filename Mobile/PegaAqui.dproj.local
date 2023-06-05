@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/19 15:32:32.000.701,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 20:13:33.000.181,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 20:14:01.000.616,D:\99CRM\Fontes\Mobile\UnitPrincipal.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/05/08 20:14:01.000.616,D:\99CRM\Fontes\Mobile\UnitPrincipal.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 20:14:07.000.473,D:\99CRM\Fontes\Mobile\CRM.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/08 20:58:12.000.295,=D:\99CRM\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 20:58:46.000.718,D:\99CRM\Fontes\Mobile\Frames\Frame.Negocio.fmx=D:\99CRM\Fontes\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2023/05/08 20:58:46.000.718,D:\99CRM\Fontes\Mobile\Frames\Frame.Negocio.pas=D:\99CRM\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 21:04:10.000.623,=D:\99CRM\Fontes\Mobile\Units\uLoading.pas</Transaction>
+    <Transaction>2023/05/08 21:14:38.000.977,=D:\99CRM\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 21:15:34.000.499,D:\99CRM\Fontes\Mobile\DataModules\DataModule.Global.pas=D:\99CRM\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 21:15:34.000.499,D:\99CRM\Fontes\Mobile\DataModules\DataModule.Global.dfm=D:\99CRM\Fontes\Mobile\Unit1.dfm</Transaction>
+    <Transaction>2023/05/08 21:18:35.000.769,=D:\99CRM\Fontes\Mobile\Units\uSession.pas</Transaction>
+    <Transaction>2023/05/09 20:06:19.000.375,=D:\99CRM\Fontes\Mobile\Units\uSuperChartLight.pas</Transaction>
+    <Transaction>2023/05/09 20:30:45.000.475,=D:\99CRM\Fontes\Mobile\Units\uActionSheet.pas</Transaction>
+    <Transaction>2023/05/09 20:40:43.000.207,=D:\99CRM\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/05/09 20:41:03.000.541,D:\99CRM\Fontes\Mobile\Unit1.pas=D:\99CRM\Fontes\Mobile\UnitNegocioCad.pas</Transaction>
+    <Transaction>2023/05/09 20:41:03.000.541,D:\99CRM\Fontes\Mobile\Unit1.fmx=D:\99CRM\Fontes\Mobile\UnitNegocioCad.fmx</Transaction>
+    <Transaction>2023/05/09 20:49:58.000.306,=D:\99CRM\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/05/09 20:50:18.000.449,D:\99CRM\Fontes\Mobile\Unit1.fmx=D:\99CRM\Fontes\Mobile\UnitTarefaCad.fmx</Transaction>
+    <Transaction>2023/05/09 20:50:18.000.449,D:\99CRM\Fontes\Mobile\Unit1.pas=D:\99CRM\Fontes\Mobile\UnitTarefaCad.pas</Transaction>
+    <Transaction>2023/05/15 09:42:12.000.796,D:\PegaAqui\Fontes\Mobile\CRM.dproj=D:\PegaAqui\Fontes\Mobile\PegaAqui.dproj</Transaction>
+    <Transaction>2023/05/28 20:45:31.000.594,D:\PegaAqui\Fontes\Mobile\Frames\Frame.Produto.pas=D:\PegaAqui\Fontes\Mobile\Frames\Frame.Negocio.pas</Transaction>
+    <Transaction>2023/05/28 20:45:31.000.594,D:\PegaAqui\Fontes\Mobile\Frames\Frame.Produto.fmx=D:\PegaAqui\Fontes\Mobile\Frames\Frame.Negocio.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/19 15:32:32.000.701,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 20:33:32.000.864,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 20:34:04.000.487,D:\99CRM\Fontes\ServidorHorse\UnitPrincipal.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/05/11 20:34:04.000.487,D:\99CRM\Fontes\ServidorHorse\UnitPrincipal.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 20:34:11.000.615,D:\99CRM\Fontes\ServidorHorse\ServidorHorse.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/11 20:40:00.000.279,=D:\99CRM\Fontes\ServidorHorse\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 20:40:52.000.041,D:\99CRM\Fontes\ServidorHorse\Controllers\Controllers.Global.pas=D:\99CRM\Fontes\ServidorHorse\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 20:55:27.000.855,=D:\99CRM\Fontes\ServidorHorse\Unit1.pas</Transaction>
+    <Transaction>2023/05/11 20:55:46.000.588,D:\99CRM\Fontes\ServidorHorse\DataModules\DataModule.Global.dfm=D:\99CRM\Fontes\ServidorHorse\Unit1.dfm</Transaction>
+    <Transaction>2023/05/11 20:55:46.000.588,D:\99CRM\Fontes\ServidorHorse\DataModules\DataModule.Global.pas=D:\99CRM\Fontes\ServidorHorse\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
